@@ -1,0 +1,9 @@
+{
+  "version": "2",
+  "remote": {
+    "https://esm.sh/v110/@webcontainer/api@1.0.2": "dde23e828b602c71ec26273e907242a6265c99b932f68da0abd42266dd1a4c5b",
+    "https://esm.sh/v110/@webcontainer/api@1.0.2/deno/api.js": "9c33e4d2da19648e4a694d4d1cee0e5b8177ed0f6f8101a2c764e496c94153ac",
+    "https://esm.sh/v110/@webcontainer/api@1.0.2/dist/entities.d.ts": "66583e12b74f051bd5c061a0de9e3d230bee76a014c26903069d50df7cc43230",
+    "https://esm.sh/v110/@webcontainer/api@1.0.2/dist/index.d.ts": "762fa26e3a966f965347bade33f6aa89fde9e32e1c7ab2abc448b5901090d6c7"
+  }
+}
