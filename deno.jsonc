@@ -1,6 +1,6 @@
 {
   "tasks": {
-    "dev": "deno run --watch main.ts"
+    "start": "deno run --watch main.ts"
   }, 
   "imports": {
     "@webcontainer/api": "https://esm.sh/v110/@webcontainer/api@1.0.2"
